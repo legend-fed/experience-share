@@ -7,3 +7,5 @@
 
 ## 大佬们一起来!
 :ghost:
+
+### 路过的小伙伴如果想加入,可以把您的GitHub用户名发到邮箱 hi_wei_guo@foxmail.com
