@@ -1,0 +1,1 @@
+jQuery Validate是基于jquery的进行表单验证的插件.
